@@ -8,7 +8,7 @@ window.title("Jeu de Hex : Page d'accueil")
 window.geometry("1100x700")
 window.configure(bg="wheat")
 
-label1 = Label(window, text = "JEU DE HEX", bg  = "wheat", font = ("Courier", 60))
+label1 = Label(window, text = "JEU DE HEX DE GUEDIN", bg  = "wheat", font = ("Courier", 60))
 label1.place(x = 370, y = 60)
 
 frame_button = Frame(window, bg="wheat")
